@@ -89,7 +89,7 @@ python frontend/main.py
 
 ## 🎓 Author
 
-**Ritesh Sharma**  
+**Sakshi kothmarivala**  
 University of East London  
 Module: CN6035 - DApp Development  
 Lecturer: Dr. _____
