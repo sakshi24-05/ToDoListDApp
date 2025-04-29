@@ -92,7 +92,7 @@ python frontend/main.py
 **Sakshi kothmarivala**  
 University of East London  
 Module: CN6035 - DApp Development  
-Lecturer: Dr. _____
+Lecturer: Mr. Mayank Trivedi
 
 ---
 
