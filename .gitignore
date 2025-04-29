@@ -1,0 +1,25 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.swp
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment
+.env
+*.log
+
+# Compiled contracts or ABI
+*.json
+
+# Platform specific
+.DS_Store
+Thumbs.db
+
+# Backup
+*.bak
+
+# OS generated
+ehthumbs.db
